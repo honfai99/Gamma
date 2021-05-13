@@ -1,0 +1,73 @@
+﻿  subtractiveBassline.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\gen.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\ipl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(38,1): warning C4305: '引數': 從 'double' 轉換為 'Tp'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(39,1): warning C4305: '引數': 從 'double' 轉換為 'Tp'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(44,1): warning C4305: '引數': 從 'double' 轉換為 'Tp'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(54,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(71,12): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Oscillator.h(1412,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Oscillator.h(1408): message : 編譯 類別 樣板 成員函式 'void gam::DWO<gam::phsInc::Loop,gam::DomainObserver>::freq(float)' 期間
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(64): message : 請參考正在進行編譯的函式 樣板 具現化 'void gam::DWO<gam::phsInc::Loop,gam::DomainObserver>::freq(float)'
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(24): message : 請參考正在進行編譯的 類別 樣板 具現化 'gam::DWO<gam::phsInc::Loop,gam::DomainObserver>'
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Oscillator.h(1413,15): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(728,27): warning C4244: '=': 將 'double' 轉換為 'Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(727): message : 編譯 類別 樣板 成員函式 'void gam::Biquad<gam::real,gam::real,gam::DomainObserver>::onDomainChange(double)' 期間
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(722): message : 請參考正在進行編譯的函式 樣板 具現化 'void gam::Biquad<gam::real,gam::real,gam::DomainObserver>::onDomainChange(double)'
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(25): message : 請參考正在進行編譯的 類別 樣板 具現化 'gam::Biquad<gam::real,gam::real,gam::DomainObserver>'
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(987,20): warning C4244: '=': 將 'double' 轉換為 'Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(979): message : 編譯 類別 樣板 成員函式 'void gam::OnePole<gam::real,gam::real,gam::DomainObserver>::lag(Tp,Tp)' 期間
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(44): message : 請參考正在進行編譯的函式 樣板 具現化 'void gam::OnePole<gam::real,gam::real,gam::DomainObserver>::lag(Tp,Tp)'
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\synthesis\subtractiveBassline.cpp(28): message : 請參考正在進行編譯的 類別 樣板 具現化 'gam::OnePole<gam::real,gam::real,gam::DomainObserver>'
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(928,27): warning C4244: '=': 將 'double' 轉換為 'Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Tp=gam::real
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(927): message : 編譯 類別 樣板 成員函式 'void gam::OnePole<gam::real,gam::real,gam::DomainObserver>::onDomainChange(double)' 期間
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Filter.h(923): message : 請參考正在進行編譯的函式 樣板 具現化 'void gam::OnePole<gam::real,gam::real,gam::DomainObserver>::onDomainChange(double)'
+AudioIO.obj : error LNK2019: 在函式 Pa_GetErrorText"public: void __cdecl gam::AudioIOData::Impl::printError(char const *)const " (?printError@Impl@AudioIOData@gam@@QEBAXPEBD@Z) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_Initialize"public: __cdecl gam::InitSingleton::InitSingleton(void)" (??0InitSingleton@gam@@QEAA@XZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_Terminate"public: __cdecl gam::InitSingleton::~InitSingleton(void)" (??1InitSingleton@gam@@QEAA@XZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetDeviceCount"public: static int __cdecl gam::AudioDevice::numDevices(void)" (?numDevices@AudioDevice@gam@@SAHXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetDefaultInputDevice"public: static class gam::AudioDevice __cdecl gam::AudioDevice::defaultInput(void)" (?defaultInput@AudioDevice@gam@@SA?AV12@XZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetDefaultOutputDevice"public: static class gam::AudioDevice __cdecl gam::AudioDevice::defaultOutput(void)" (?defaultOutput@AudioDevice@gam@@SA?AV12@XZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetDeviceInfo"public: void __cdecl gam::AudioIO::channels(int,bool)" (?channels@AudioIO@gam@@QEAAXH_N@Z) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_IsFormatSupported"public: bool __cdecl gam::AudioIOData::Impl::supportsFPS(double)const " (?supportsFPS@Impl@AudioIOData@gam@@QEBA_NN@Z) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_OpenStream"public: bool __cdecl gam::AudioIO::open(void)" (?open@AudioIO@gam@@QEAA_NXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_CloseStream"public: bool __cdecl gam::AudioIOData::Impl::close(void)" (?close@Impl@AudioIOData@gam@@QEAA_NXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_StartStream"public: bool __cdecl gam::AudioIO::start(void)" (?start@AudioIO@gam@@QEAA_NXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_StopStream"public: bool __cdecl gam::AudioIOData::Impl::stop(void)" (?stop@Impl@AudioIOData@gam@@QEAA_NXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetStreamInfo"public: void __cdecl gam::AudioIO::print(void)" (?print@AudioIO@gam@@QEAAXXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetStreamTime"public: double __cdecl gam::AudioIOData::time(void)const " (?time@AudioIOData@gam@@QEBANXZ) 中參考了無法解析的外部符號
+AudioIO.obj : error LNK2019: 在函式 Pa_GetStreamCpuLoad"public: double __cdecl gam::AudioIO::cpu(void)const " (?cpu@AudioIO@gam@@QEBANXZ) 中參考了無法解析的外部符號
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\project\vs2019\x64\Debug\vs2019.exe : fatal error LNK1120: 15 個無法解析的外部符號

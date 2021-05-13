@@ -1,0 +1,62 @@
+﻿  soundFilex.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\ipl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\gen.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFilex.cpp(22,27): warning C4244: '正在初始化': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFilex.cpp(40,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFilex.cpp(41,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFilex.cpp(43,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFilex.cpp(44,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  arr.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  AudioIO.cpp
+  Conversion.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  DFT.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(298,30): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(306,15): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(336,31): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(346,16): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(370,34): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+  Domain.cpp
+  fftpack++1.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1046,11): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1048,20): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1060,20): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+  fftpack++2.cpp
+  FFT_fftpack.cpp
+  Print.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Print.cpp(24,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Recorder.cpp
+  Scheduler.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Scheduler.cpp(124,18): warning C4244: '=': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Scheduler.cpp(146,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  scl.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  SoundFile.cpp
+  Timer.cpp
+  正在產生程式碼...
+  vs2019.vcxproj -> C:\Users\wingh\OneDrive\文件\GitHub\Gamma\project\vs2019\Debug\vs2019.exe

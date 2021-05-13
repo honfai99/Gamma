@@ -1,0 +1,77 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1097,5): warning MSB8027: 兩個或多個名稱為 'soundFile.cpp' 的檔案會產生輸出到相同位置。這可能導致錯誤的組建結果。涉及的檔案是 ..\..\examples\io\soundFile.cpp, ..\..\src\SoundFile.cpp。
+  soundFile.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\ipl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\gen.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFile.cpp(22,27): warning C4244: '正在初始化': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFile.cpp(40,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFile.cpp(41,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFile.cpp(43,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\examples\io\soundFile.cpp(44,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  arr.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  AudioIO.cpp
+  Conversion.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  DFT.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(298,30): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(306,15): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(336,31): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(346,16): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\DFT.cpp(370,34): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+  Domain.cpp
+  fftpack++1.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1046,11): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1048,20): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\fftpack++.inc(1060,20): warning C4244: '=': 將 'double' 轉換為 'real_t'，由於類型不同，可能導致資料遺失
+  fftpack++2.cpp
+  FFT_fftpack.cpp
+  Print.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Print.cpp(24,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Recorder.cpp
+  Scheduler.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Scheduler.cpp(124,18): warning C4244: '=': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\src\Scheduler.cpp(146,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  scl.cpp
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\Gamma\Conversion.h(230,29): warning C4244: 'return': 將 'uint64_t' 轉換為 'uint32_t'，由於類型不同，可能導致資料遺失
+  SoundFile.cpp
+  Timer.cpp
+Release\SoundFile.obj : warning LNK4042: 指定物件超過一次，已忽略多餘的部分
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: void __thiscall gam::SoundFile::seek(int,int)" (?seek@SoundFile@gam@@QAEXHH@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: int __thiscall gam::SoundFile::samples(void)const " (?samples@SoundFile@gam@@QBEHXZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: class gam::SoundFile & __thiscall gam::SoundFile::channels(int)" (?channels@SoundFile@gam@@QAEAAV12@H@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: int __thiscall gam::SoundFile::frames(void)const " (?frames@SoundFile@gam@@QBEHXZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: class gam::SoundFile & __thiscall gam::SoundFile::frameRate(double)" (?frameRate@SoundFile@gam@@QAEAAV12@N@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: class gam::SoundFile & __thiscall gam::SoundFile::format(enum gam::SoundFile::Format)" (?format@SoundFile@gam@@QAEAAV12@W4Format@12@@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: class gam::SoundFile & __thiscall gam::SoundFile::encoding(enum gam::SoundFile::EncodingType)" (?encoding@SoundFile@gam@@QAEAAV12@W4EncodingType@12@@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: int __thiscall gam::SoundFile::write<float>(float const *,int)" (??$write@M@SoundFile@gam@@QAEHPBMH@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: int __thiscall gam::SoundFile::read<float>(float *,int)" (??$read@M@SoundFile@gam@@QAEHPAMH@Z)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: bool __thiscall gam::SoundFile::close(void)" (?close@SoundFile@gam@@QAE_NXZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: bool __thiscall gam::SoundFile::openWrite(void)" (?openWrite@SoundFile@gam@@QAE_NXZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: bool __thiscall gam::SoundFile::openRead(void)" (?openRead@SoundFile@gam@@QAE_NXZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: __thiscall gam::SoundFile::~SoundFile(void)" (??1SoundFile@gam@@QAE@XZ)
+soundFile.obj : error LNK2001: 無法解析的外部符號 "public: __thiscall gam::SoundFile::SoundFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0SoundFile@gam@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Users\wingh\OneDrive\文件\GitHub\Gamma\project\vs2019\Release\vs2019.exe : fatal error LNK1120: 14 個無法解析的外部符號
